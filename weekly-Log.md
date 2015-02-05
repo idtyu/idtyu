@@ -1,0 +1,1 @@
+week 4 - 5 : completed presentation, wrote introduction, and drew UI prototype and gantt chart (rejected by team, as they think that gantt chart is hard to read.)
