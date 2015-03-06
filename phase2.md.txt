@@ -1,0 +1,6 @@
+Personal contribution for phase 2:
+
+1.Created a template for the entire site using HTML5, CSS3 and Bootstrap
+2.Created a coherent and minimalist designed for the entire website, using minimalism design concepts such as white space, minimal visual elements , and UX principles such as 20/80 rules ( so that I hide most of non-frequently used elements in a menu), F-zone ( to concentrate all elements (three revisions of designs, second revision revamped the design and added JQuery validation, third revision added the background and font changes, and minor visual element adjustments with Bootstrap grid system)
+3.Created the log in and sign up page
+4.JQuery Validation
