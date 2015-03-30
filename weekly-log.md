@@ -5,3 +5,7 @@ Week 5 -6 : First revised design, stepped validation form, basic bootstrap eleme
 Week 6-7 : Second revised design, one step validation form, JQUERY validation, added bootstrap grid, and glyphicons for better UX experiences, re-arranged button arrangement
 
 week 8-10 : Third revised design, used Google Arvo fonts, added background and opacity to the registration form body, added login page. 
+
+week 11-12: minor adjustments and bug fixing
+
+week 13 -Now: fully incorporated view files, and finalized layout. 
